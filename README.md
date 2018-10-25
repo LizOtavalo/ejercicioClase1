@@ -1,1 +1,0 @@
-# ejercicioClase1
